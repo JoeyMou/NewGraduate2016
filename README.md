@@ -9,6 +9,7 @@
 * [AppNexus](http://www.appnexus.com/en/company/careers/open-roles?p=job%2FoZkv1fwz")
 * [Airbnb](https://www.airbnb.com/careers/departments/position/85119)
 * [Bank of America](https://bacfhrs.taleo.net/careersection/2/jobdetail.ftl?job=1500054172&lang=en)
+* [Bloomberg](https://careers.bloomberg.com/hire/jobs/job47029.html)
 * [Dropbox](https://www.dropbox.com/jobs/listing/965)
 * [Facebook](https://www.facebook.com/careers/department?req=a0IA000000Cy2G7MAJ)
 * [Fitbit](https://www.fitbit.com/jobs/search#jobs/oYEA1fwX)
