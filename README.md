@@ -23,6 +23,7 @@
 * [HSBC](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en_GB&job=363348&src=JB-10502)
 * [Lyft](https://www.lyft.com/jobs/new-grad-software-engineer-upcoming-or-recent-grads-only)
 * [MongoDB](https://www.mongodb.com/careers/positions?gh_jid=95427)
+* [PayPal](https://jobs.paypal-corp.com/graduate-full-time-close.html)
 * [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-new-grad_san-francisco_82217)
 * [Salesforce](http://careers.force.com/jobs/apex/ts2__JobDetails?jobId=a1k70000002F1kPAAS&tSource=)
 * [Snapchat](https://boards.greenhouse.io/snapchat/jobs/6449#.VfIefbSH_8s)
