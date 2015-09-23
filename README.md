@@ -12,6 +12,7 @@
 * [Barclays](http://joinus.barclays.com/americas/)
 * [Bloomberg](https://careers.bloomberg.com/hire/jobs/job47029.html)
 * [Dropbox](https://www.dropbox.com/jobs/listing/965)
+* [Etsy](https://www.etsy.com/careers/job/oE9M1fwk)
 * [Facebook](https://www.facebook.com/careers/department?req=a0IA000000Cy2G7MAJ)
 * [Fitbit](https://www.fitbit.com/jobs/search#jobs/oYEA1fwX)
 * [Google](https://www.google.com/about/careers/search#!t=jo&jid=3256001&)
