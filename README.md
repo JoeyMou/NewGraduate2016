@@ -1,5 +1,5 @@
 # NewGraduate2016
-这里收集了招 2016 New Graduate 的美国公司，方便大家申请。
+这里收集了招 2016 New Graduate Software Engineer 相关职位的美国公司，方便大家申请。
 
 公司名字按字典序排序。
 
