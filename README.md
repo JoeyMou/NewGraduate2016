@@ -18,6 +18,7 @@
 * [Google](https://www.google.com/about/careers/search#!t=jo&jid=3256001&)
 * [Groupon](https://jobs.groupon.com/careers/university-new-graduate-opportunities/software-development-engineer-new-graduate-palo-alto-ca-united-states-11139/)
 * [Hulu](http://www.hulu.com/jobs/category?jvi=oIOv1fwM,Job)
+* [HSBC](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en_GB&job=363348&src=JB-10502)
 * [Lyft](https://www.lyft.com/jobs/new-grad-software-engineer-upcoming-or-recent-grads-only)
 * [MongoDB](https://www.mongodb.com/careers/positions?gh_jid=95427)
 * [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-new-grad_san-francisco_82217)
