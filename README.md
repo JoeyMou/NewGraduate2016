@@ -12,6 +12,7 @@
 * [Barclays](http://joinus.barclays.com/americas/)
 * [Bloomberg](https://careers.bloomberg.com/hire/jobs/job47029.html)
 * [Dropbox](https://www.dropbox.com/jobs/listing/965)
+* [eBay](https://careers.ebayinc.com/join-our-team/for-students-and-recent-graduates/entry-level-positions/)
 * [EMC](https://jobs.emc.com/job/-/-/414/777267?apstr=%26codes%3DIJIND)
 * [Etsy](https://www.etsy.com/careers/job/oE9M1fwk)
 * [Facebook](https://www.facebook.com/careers/department?req=a0IA000000Cy2G7MAJ)
