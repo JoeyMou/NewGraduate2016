@@ -33,6 +33,7 @@
 * [Square](http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Job%20Description&j=oQJn1fwH)
 * [Twitter](https://about.twitter.com/careers/positions?jvi=o0kr1fww,Job)
 * [Uber](https://www.uber.com/jobs/67959)
+* [UBS](https://jobs.ubs.com/TGWEbHost/jobdetails.aspx?jobId=128504&PartnerId=25008&SiteId=5099&codes=IINDD&lph=no)
 * [Visa](http://jobs.visa.com/job/New-Grad-Software-Engineer-%28Advanced-Degree%29-Job/297035300/?feedId=131500&utm_source=Indeed&utm_campaign=Visa_Indeed)
 * [Yahoo](https://tas-yahoo.taleo.net/careersection/us_ncg/jobdetail.ftl?job=1544576)
 * [Yelp](http://www.yelp.com/careers?job_id=cdefb0de-1998-4814-b459-c4417ef94efc)
