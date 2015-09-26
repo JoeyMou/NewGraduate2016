@@ -10,6 +10,7 @@
 * [Airbnb](https://www.airbnb.com/careers/departments/position/85119)
 * [Bank of America](https://bacfhrs.taleo.net/careersection/2/jobdetail.ftl?job=1500054172&lang=en)
 * [Barclays](http://joinus.barclays.com/americas/)
+* [BlackRock](https://blackrock.tal.net/vx/candidate/jobboard/vacancy/1/adv)
 * [Bloomberg](https://careers.bloomberg.com/hire/jobs/job47029.html)
 * [Citi](https://www.citi.com/oncampus/index/#/jobDetails/4)
 * [Deutsche Bank](https://www.db.com/careers/en/grad/role-search/job_search_results.html#JobOpeningId=28961)
