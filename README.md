@@ -35,6 +35,7 @@
 * [Snapchat](https://boards.greenhouse.io/snapchat/jobs/6449#.VfIefbSH_8s)
 * [Square](http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Job%20Description&j=oQJn1fwH)
 * [Twitter](https://about.twitter.com/careers/positions?jvi=o0kr1fww,Job)
+* [TwoSigma](https://careers.twosigma.com/careers/JobDetail/New-York-NY-United-States-Software-Engineer-Campus-Hire/392)
 * [Uber](https://www.uber.com/jobs/67959)
 * [UBS](https://jobs.ubs.com/TGWEbHost/jobdetails.aspx?jobId=128504&PartnerId=25008&SiteId=5099&codes=IINDD&lph=no)
 * [Visa](http://jobs.visa.com/job/New-Grad-Software-Engineer-%28Advanced-Degree%29-Job/297035300/?feedId=131500&utm_source=Indeed&utm_campaign=Visa_Indeed)
